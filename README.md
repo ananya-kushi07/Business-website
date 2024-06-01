@@ -3,12 +3,12 @@
 This project is a simple real estate webpage designed to showcase properties and provide information about real estate services. The webpage includes a variety of sections, such as featured properties, top apartments, and service conveniences. It also includes a navigation bar and footer for easy navigation.
 
 ## Table of Contents
-1.Features
-2.Technologies Used
-3.Setup and Installation
-4.Usage
-5.Contributing
-6.License
+1. [<span style="color: black;">Features</span>](#features)
+2. [<span style="color: black;">Technologies Used</span>](#technologies-used)
+3. [<span style="color: black;">Setup and Installation</span>](#setup-and-installation)
+4. [<span style="color: black;">Usage</span>](#usage)
+5. [<span style="color: black;">Contributing</span>](#contributing)
+6. [<span style="color: black;">License</span>](#license)
 
 ## <span style="color: black;">Features</span>
 
