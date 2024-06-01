@@ -1,7 +1,6 @@
 
-Real Estate Website
+*Real Estate Website:*
 This project is a simple real estate webpage designed to showcase properties and provide information about real estate services. The webpage includes a variety of sections, such as featured properties, top apartments, and service conveniences. It also includes a navigation bar and footer for easy navigation.
-
 Table of Contents
 Features
 Technologies Used
